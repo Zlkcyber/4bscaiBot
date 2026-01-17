@@ -47,3 +47,11 @@ How to Run Safely
 Notes
 -----
 - Ctrl+C when you want to stop the bot.
+
+-------
+
+
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 ZLKCYBER
